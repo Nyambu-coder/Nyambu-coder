@@ -4,31 +4,16 @@
 # 💖 Hi, I'm Joyce 👩‍💻🌸
 
 <p align="center">
-<em>Typing animation:</em>  
-<script type="text/javascript">
-  let i = 0;
-  let txt = 'Full-Stack Developer | AI Automation Specialist | CRM Expert 💗';
-  let speed = 100;
-
-  function typeWriter() {
-    if (i < txt.length) {
-      document.getElementById("typing").innerHTML += txt.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-  window.onload = typeWriter;
-</script>
-
-<div id="typing"></div>
+<img src="https://media.giphy.com/media/3o7TKP0Iex1JmzZ1Ic/giphy.gif" width="400"/>  
+<em>Full-Stack Developer | AI Automation Specialist | CRM Expert 💗</em>
 </p>
 
 ---
 
 ## 🎀 About Me 🎀
 
-💗 Passionate about coding and automation  
-🌸 Experienced in Python, Java, Kotlin, JavaScript, HTML, CSS, Django, JSON  
+🌸 Passionate about coding and automation  
+💗 Experienced in Python, Java, Kotlin, JavaScript, HTML, CSS, Django, JSON  
 🐱 Cat lover & coffee enthusiast ☕  
 
 ---
@@ -87,14 +72,14 @@
 
 ## 💌 Connect With Me 💌
 
-📧 joycenjathiva@gmail.com
+📧 joycenjathiva@gmail.com 
 🌐 Portfolio: coming soon  
 
 ---
 
 <p align="center">
-💗 Thanks for visiting my profile! 💗  
-🐱 Stay cute and code on! 🌸
+<img src="https://media.giphy.com/media/3ohc0aE2fjfM2m1t0I/giphy.gif" width="400"/>  
+💗 Thanks for visiting my profile! Stay cute and code on! 🌸
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
