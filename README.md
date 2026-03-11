@@ -76,9 +76,6 @@
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/3ohc0aE2fjfM2m1t0I/giphy.gif" width="400"/>  
 💗 Thanks for visiting my profile! Stay cute and code on! 🌸
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
