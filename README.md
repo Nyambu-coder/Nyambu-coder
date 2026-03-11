@@ -1,12 +1,11 @@
 <!-- Banner -->
-<img src="banner.png" width="100%"/>
+<img src="banner-animated.gif" width="100%"/>
 
 # 💖 Hi, I'm Joyce 👩‍💻🌸
 
-<p align="center">
-<img src="https://media.giphy.com/media/3o7TKP0Iex1JmzZ1Ic/giphy.gif" width="400"/>  
-<em>Full-Stack Developer | AI Automation Specialist | CRM Expert 💗</em>
-</p>
+🌸 Full-Stack Developer | AI Automation Specialist | CRM Expert 💗  
+💻 Python | Java | Kotlin | JavaScript | Django | HTML | CSS | JSON
+
 
 ---
 
