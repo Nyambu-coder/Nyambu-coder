@@ -83,6 +83,7 @@ I build automation systems for businesses that want to:
 ✔ Scale operations without extra staff  
 
 📩 Email: **joycenjathiva@gmail.com**
+portfolio: https://nyambu-coder.github.io/portfolio/
 
 ---
 
