@@ -98,3 +98,5 @@ I build automation systems for businesses that want to:
 ## 💡 Fun Fact
 
 I turn boring manual business tasks into systems that run 24/7 automatically ⚡
+
+Building automation systems for real-world business workflows using AI + APIs.
