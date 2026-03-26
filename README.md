@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="banner.png" width="100%"/>
+<img src="Banner (2).png" width="100%"/>
 
 # 💖 Joyce Njathi | AI Automation & Backend Engineer 👩‍💻⚡
 
