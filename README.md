@@ -1,81 +1,100 @@
 <!-- Banner -->
 <img src="banner.png" width="100%"/>
 
-# 💖 Hi, I'm Joyce 👩‍💻🌸
+# 💖 Joyce Njathi | AI Automation & Backend Engineer 👩‍💻⚡
 
-🌸 Full-Stack Developer | AI Automation Specialist | CRM Expert 💗  
-💻 Python | Java | Kotlin | JavaScript | Django | HTML | CSS | JSON
-
+I build AI-powered automation systems that help businesses save time, manage data, and scale operations.
 
 ---
 
-## 🎀 About Me 🎀
+## 🚀 About Me
 
-🌸 Passionate about coding and automation  
-💗 Experienced in Python, Java, Kotlin, JavaScript, HTML, CSS, Django, JSON  
-🐱 Cat lover & coffee enthusiast ☕  
+Hi, I’m Joyce 👋  
+A developer focused on **AI automation, CRM systems, and backend workflows**.
 
----
+I specialize in turning manual business processes into **fully automated systems using AI + APIs**.
 
-## 💻 Tech Stack 💻
-
-### Languages
-![Python](https://img.shields.io/badge/Python-ffc0cb?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-ffb6c1?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff1493?style=for-the-badge)
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-ffc0cb?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-ffb6c1?style=for-the-badge)
-
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-ff69b4?style=for-the-badge)
-![Make](https://img.shields.io/badge/Make-Automation-ffc0cb?style=for-the-badge)
-![HubSpot](https://img.shields.io/badge/HubSpot-CRM-ff1493?style=for-the-badge)
+🐱 Cat lover | ☕ Coffee enthusiast | ⚡ Automation builder
 
 ---
 
-## 🚀 Projects 🚀
+## 💼 What I Do
 
-### 💗 Apollo → HubSpot Lead Automation
-- Extracts leads from Apollo  
-- Detects duplicates in HubSpot  
-- Updates or creates contacts automatically  
-
-### 🌸 Django Web Application
-- Backend API with Django  
-- Dynamic frontend (HTML, CSS, JS)  
-- Database integration and authentication 🐱
+🤖 AI Workflow Automation (n8n, OpenAI, APIs)  
+🔗 CRM Integrations (HubSpot, Apollo, custom systems)  
+📧 Email Automation Systems  
+📊 Lead Management Automation  
+⚙️ Backend Development (Python, Django, APIs)
 
 ---
 
-## 📊 GitHub Stats 📊
+## ⚙️ Tech Stack
 
-![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyambu-coder&show_icons=true&theme=rose)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyambu-coder&layout=compact&theme=rose)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nyambu-coder&theme=rose)
+**Languages**
+Python • Java • Kotlin • JavaScript
 
----
+**Backend & Web**
+Django • REST APIs • HTML • CSS • JSON
 
-## 🌱 Currently Learning 🌱
-
-✨ Advanced AI automation  
-✨ API integrations  
-✨ Backend architecture  
-✨ Mobile apps with Kotlin  
-✨ Cute pink UI design 💖🌸
+**Automation Tools**
+n8n • Make (Integromat) • HubSpot API • OpenAI API • Apollo API
 
 ---
 
-## 💌 Connect With Me 💌
+## 🚀 Featured Projects
 
-📧 joycenjathiva@gmail.com 
-🌐 Portfolio: coming soon  
+### 🤖 AI HR Application Automation
+Automates recruitment workflows using AI.
+
+- Processes job applications automatically
+- Uses AI to analyze candidates
+- Sends automated responses
+- Reduces HR workload significantly
 
 ---
 
-💗 Thanks for visiting my profile! Stay cute and code on! 🌸
+### 📧 AI Email Automation System
+Smart email processing and response system.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+- AI email classification
+- Automated replies
+- Inbox organization system
+- Workflow automation with n8n
+
+---
+
+### 🔗 Apollo → HubSpot CRM Automation
+CRM synchronization system for clean sales data.
+
+- Prevents duplicate contacts
+- Syncs Apollo leads into HubSpot
+- Auto-updates CRM records
+- Real-time data management
+
+---
+
+## 💰 Freelance Services
+
+I build automation systems for businesses that want to:
+
+✔ Save time with AI automation  
+✔ Automate CRM and lead management  
+✔ Improve email workflows  
+✔ Scale operations without extra staff  
+
+📩 Email: **joycenjathiva@gmail.com**
+
+---
+
+## 🌱 Currently Learning
+
+✨ Advanced AI agents  
+✨ Scalable backend architecture  
+✨ API integrations at enterprise level  
+✨ Automation system design  
+
+---
+
+## 💡 Fun Fact
+
+I turn boring manual business tasks into systems that run 24/7 automatically ⚡
