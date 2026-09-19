@@ -44,6 +44,7 @@ I use GitHub to document what I'm learning, practice new technologies, and build
 
 I'm currently building and documenting small QA projects as I develop my test automation skills.
 
+
 ### Cypress Testing
 
 Practicing UI and API testing with Cypress, including basic test structure and API requests.
@@ -134,5 +135,5 @@ I'm particularly interested in working in environments where I can learn from ex
 ## Connect With Me
 
 * LinkedIn: [linkedin.com/in/joyceva](https://linkedin.com/in/joyceva)
-* Portfolio: [joycenjathi45.my.canva.site](https://joycenjathi45.my.canva.site/hello-i-am-joy)
+* 📂 [QA Automation Portfolio →](https://github.com/Nyambu-coder/qa-automation-portfolio)
 * GitHub: [github.com/Nyambu-coder](https://github.com/Nyambu-coder)
