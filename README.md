@@ -1,103 +1,11 @@
-<!-- Banner -->
-<img src="Banner (2).png" width="200%"/>
+## 🧪 QA Automation Testing
+Alongside backend automation, I build automated test suites across multiple frameworks to strengthen my QA + engineering skill set:
 
-# 💖 Joyce Njathi | AI Automation & Backend Engineer 👩‍💻⚡
+- **Cypress** — UI testing and API testing with `cy.request()`
+- **Selenium WebDriver** — cross-browser navigation testing and screenshot automation
+- **Playwright** — cross-browser E2E testing (Chromium, Firefox, WebKit) with built-in screenshot capture
+- **Postman** — manual and automated API testing/documentation
 
-I build AI-powered automation systems that help businesses save time, manage data, and scale operations.
+**Testing Tools:** Cypress • Selenium • Playwright • Postman
 
----
-
-## 🚀 About Me
-
-Hi, I’m Joyce 👋  
-A developer focused on **AI automation, CRM systems, and backend workflows**.
-
-I specialize in turning manual business processes into **fully automated systems using AI + APIs**.
-
-🐱 Cat lover | ☕ Coffee enthusiast | ⚡ Automation builder
-
----
-
-## 💼 What I Do
-
-🤖 AI Workflow Automation (n8n, OpenAI, APIs)  
-🔗 CRM Integrations (HubSpot, Apollo, custom systems)  
-📧 Email Automation Systems  
-📊 Lead Management Automation  
-⚙️ Backend Development (Python, Django, APIs)
-
----
-
-## ⚙️ Tech Stack
-
-**Languages**
-Python • Java • Kotlin • JavaScript
-
-**Backend & Web**
-Django • REST APIs • HTML • CSS • JSON
-
-**Automation Tools**
-n8n • Make (Integromat) • HubSpot API • OpenAI API • Apollo API
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI HR Application Automation
-Automates recruitment workflows using AI.
-
-- Processes job applications automatically
-- Uses AI to analyze candidates
-- Sends automated responses
-- Reduces HR workload significantly
-
----
-
-### 📧 AI Email Automation System
-Smart email processing and response system.
-
-- AI email classification
-- Automated replies
-- Inbox organization system
-- Workflow automation with n8n
-
----
-
-### 🔗 Apollo → HubSpot CRM Automation
-CRM synchronization system for clean sales data.
-
-- Prevents duplicate contacts
-- Syncs Apollo leads into HubSpot
-- Auto-updates CRM records
-- Real-time data management
-
----
-
-## 💰 Freelance Services
-
-I build automation systems for businesses that want to:
-
-✔ Save time with AI automation  
-✔ Automate CRM and lead management  
-✔ Improve email workflows  
-✔ Scale operations without extra staff  
-
-📩 Email: **joycenjathiva@gmail.com**
-portfolio: https://nyambu-coder.github.io/portfolio/
-
----
-
-## 🌱 Currently Learning
-
-✨ Advanced AI agents  
-✨ Scalable backend architecture  
-✨ API integrations at enterprise level  
-✨ Automation system design  
-
----
-
-## 💡 Fun Fact
-
-I turn boring manual business tasks into systems that run 24/7 automatically ⚡
-
-Building automation systems for real-world business workflows using AI + APIs.
+📂 [QA Automation Portfolio →](https://github.com/Nyambu-coder/qa-automation-portfolio)
