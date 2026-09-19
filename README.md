@@ -1,93 +1,138 @@
-# 💖 Joyce Njathi | QA Engineer & AI Automation Developer 👩‍💻⚡
+# Joyce Njathi
 
-## 💼 Current Role
-**Junior QA & Integration Developer** — Bema Integrated Services
-- Manual and automation QA testing
-- Test plan and test case creation
-- Documentation ownership (business & technical)
-- Integration development and workflow automation
+## Junior QA & Integration Developer
 
-## 🚀 About Me
-Hi, I'm Joyce 👋
-A QA engineer and developer focused on **quality assurance, test automation, AI automation, and backend workflows**.
+I'm a Junior QA & Integration Developer building practical skills in software testing, test automation, integrations, and workflow automation.
 
-I specialize in ensuring software quality through structured testing — and turning manual business processes into fully automated systems using AI + APIs.
+My current focus is improving my understanding of how software is tested, how automated tests are written, and how different systems can work together through APIs and automation tools.
 
-🐱 Cat lover | ☕ Coffee enthusiast | ⚡ Automation builder
+I use GitHub to document what I'm learning, practice new technologies, and build small projects that help me develop my technical skills.
 
-## 💼 What I Do
-🧪 Manual & Automated QA Testing
-📋 Test Plan & Test Case Creation
-📄 QA Documentation (Business & Technical)
-🤖 AI Workflow Automation (n8n, OpenAI, APIs)
-🔗 CRM Integrations (HubSpot, Apollo, custom systems)
-📧 Email Automation Systems
-📊 Lead Management Automation
-⚙️ Backend Development (Python, Django, APIs)
+## What I'm Currently Working On
 
-## 🧪 QA & Test Automation
-A well-rounded QA skill set — from manual testing and documentation to automated test suites across multiple frameworks:
+### QA and Testing
 
-**Manual QA**
-- Manual functional & regression testing
-- Test plan and test case creation
-- QA documentation (business & technical)
-- Bug tracking, evidence reporting, and structured test cycles
+* Manual functional and regression testing
+* Test planning and test case creation
+* QA documentation
+* Bug reporting and test evidence
+* Cypress
+* Playwright
+* Selenium
+* Postman and API testing
 
-**Automation**
-- **Cypress** — UI testing and API testing with `cy.request()`
-- **Selenium WebDriver** — cross-browser navigation testing and screenshot automation
-- **Playwright** — cross-browser E2E testing (Chromium, Firefox, WebKit) with built-in screenshot capture
-- **Postman** — manual and automated API testing/documentation
+### Automation and Integrations
 
-**QA Tools & Skills:** Manual Testing • Test Planning • Test Case Design • QA Documentation • Cypress • Selenium • Playwright • Postman
+* n8n
+* Make
+* Zapier
+* API integrations
+* CRM workflows
+* Workflow automation
 
-📂 [QA Automation Portfolio →](https://github.com/Nyambu-coder/qa-automation-portfolio)
+### Development
 
-## ⚙️ Tech Stack
-**Languages** Python • Java • Kotlin • JavaScript
+* Python
+* JavaScript
+* Django
+* REST APIs
+* HTML
+* CSS
+* JSON
 
-**Backend & Web** Django • REST APIs • HTML • CSS • JSON
+## QA Practice Projects
 
-**Automation Tools** n8n • Make (Integromat) • HubSpot API • OpenAI API • Apollo API
+I'm currently building and documenting small QA projects as I develop my test automation skills.
 
-## 🚀 Featured Projects
-**🤖 AI HR Application Automation**
-Automates recruitment workflows using AI.
-- Processes job applications automatically
-- Uses AI to analyze candidates
-- Sends automated responses
-- Reduces HR workload significantly
+### Cypress Testing
 
-**📧 AI Email Automation System**
-Smart email processing and response system.
-- AI email classification
-- Automated replies
-- Inbox organization system
-- Workflow automation with n8n
+Practicing UI and API testing with Cypress, including basic test structure and API requests.
 
-**🔗 Apollo → HubSpot CRM Automation**
-CRM synchronization system for clean sales data.
-- Prevents duplicate contacts
-- Syncs Apollo leads into HubSpot
-- Auto-updates CRM records
-- Real-time data management
+[View Cypress Testing Repository](https://github.com/Nyambu-coder/cypress-testing)
 
-## 💰 Freelance Services
-I build automation systems for businesses that want to:
-✔ Save time with AI automation
-✔ Automate CRM and lead management
-✔ Improve email workflows
-✔ Scale operations without extra staff
+### Playwright Testing
 
-📩 Email: joycenjathiva@gmail.com
-Portfolio: https://nyambu-coder.github.io/portfolio/
+Practicing end-to-end testing with Playwright and exploring cross-browser testing.
 
-## 🌱 Currently Learning
-✨ Advanced AI agents
-✨ Scalable backend architecture
-✨ API integrations at enterprise level
-✨ Automation system design
+[View Playwright Testing Repository](https://github.com/Nyambu-coder/playwright-testing)
 
-## 💡 Fun Fact
-I turn boring manual business tasks into systems that run 24/7 automatically ⚡
+### Selenium Testing
+
+Practicing browser automation and cross-browser testing with Selenium WebDriver.
+
+[View Selenium Testing Repository](https://github.com/Nyambu-coder/selenium-testing)
+
+### QA Automation Portfolio
+
+A collection of my QA learning projects, test cases, documentation, and automation practice.
+
+[View QA Automation Portfolio](https://github.com/Nyambu-coder/qa-automation-portfolio)
+
+## Automation and Integration Projects
+
+I also have experience working with workflow automation and integrations, particularly for business processes.
+
+### AI Email Automation
+
+A workflow exploring email classification and automated responses using n8n and AI tools.
+
+### Apollo to HubSpot CRM Automation
+
+A workflow for moving lead information between Apollo and HubSpot while helping reduce duplicate records and manual data entry.
+
+### HR Application Automation
+
+A workflow exploring how job application information can be processed and organized using automation and AI.
+
+## My Learning Focus
+
+I'm currently focusing on:
+
+* Improving my Cypress, Playwright, and Selenium skills
+* Learning better approaches to test automation
+* Practicing API testing
+* Improving my Python skills for QA and automation
+* Building practical integration workflows
+* Understanding how to write maintainable and reliable tests
+* Documenting my projects and learning process
+
+## Professional Experience
+
+### Junior QA & Integration Developer
+
+**Bema Integrated Services**
+
+* Perform manual and automated software testing
+* Create test cases and test plans
+* Maintain QA documentation
+* Support integration development
+* Work with workflow automation and related tools
+
+### Tech Virtual Assistant
+
+I have also worked with founders and small businesses on technical and operational tasks, including:
+
+* Workflow automation using n8n, Make, and Zapier
+* CRM management and lead pipelines
+* Google Sheets and operational systems
+* Email and calendar management
+* Lead generation support
+* Process documentation and client training
+
+## What I'm Looking For
+
+I'm interested in opportunities where I can continue developing my skills in:
+
+* QA and Software Testing
+* QA Automation
+* SDET
+* Integration Development
+* Workflow Automation
+
+I'm particularly interested in working in environments where I can learn from experienced developers and QA professionals while contributing to real projects.
+
+## Connect With Me
+
+* LinkedIn: [linkedin.com/in/joyceva](https://linkedin.com/in/joyceva)
+* Portfolio: [joycenjathi45.my.canva.site](https://joycenjathi45.my.canva.site/hello-i-am-joy)
+* GitHub: [github.com/Nyambu-coder](https://github.com/Nyambu-coder)
